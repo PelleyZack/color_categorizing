@@ -1,0 +1,8 @@
+white,"White",#ffffff,255,255,255
+black,"Black",#000000,0,0,0
+red,"Red",#ff0000,255,0,0
+green,"Green",#00ff00,0,255,0
+blue,"Blue",#0000ff,0,0,255
+yellow,"Yellow",#ffff00,255,255,0
+magenta,"Magenta",#ff00ff,255,0,255
+cyan,"Cyan",#00ffff,0,255,255
